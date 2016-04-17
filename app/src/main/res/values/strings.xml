@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Namecard</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nama">Irfan Khoirul Muhlishin</string>
+    <string name="occupation">Android Developer</string>
+    <string name="phone">+62856 1533 911</string>
+    <string name="email">irfankhoirul@gmail.com</string>
+    <string name="office">Politeknik Elektronika Negeri Surabaya</string>
+    <string name="officeAddress">Raya ITS, Sukolilo, Surabaya</string>
+</resources>
